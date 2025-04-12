@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Привет, меня зовут <a href="https://t.me/accidentworldwide" target="_blank">Егор</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8%D0%B7+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B%2C+%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+%D0%A0%D0%A2%D0%A3+%D0%9C%D0%98%D0%A0%D0%AD%D0%90" alt="Typing SVG" /></a>
+
+
 
 <!--
 **twistyskrill/twistyskrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
